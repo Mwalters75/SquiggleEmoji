@@ -1,6 +1,6 @@
 # SquiggleEmoji: Full instructions
 ### About
-This project is enforced by Apache Licence 2.0. This project's aim is to make emoji pictures in place for typing out unicodes that give you a hedache just to rmember! This project is made with and based on open-source software OpenMoji.
+This project is enforced by Apache Licence 2.0. This project's aim is to make emoji pictures in place for typing out unicode that give you a headache just to remember! This project is made with and based on open-source software OpenMoji.
 ### Installation
 Go to releases, navigate to the first version you see, then click on Assets, download the .zip file, and your site is ready for SquiggleEmoji implemetion!
 ### Implementation
